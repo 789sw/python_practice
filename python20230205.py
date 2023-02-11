@@ -26,3 +26,8 @@ print(bin(a))
 print(oct(a))
 print(hex(a))
 
+swap()
+def swap():
+    a,b = b,a
+    print(a,b)
+
